@@ -1,6 +1,6 @@
 # Kohya Colabs
 
-Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of [kohya-ss and Linaqruf](https://github.com/Linaqruf/kohya-trainer)
+Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of [kohya-ss](https://github.com/kohya-ss/sd-scripts) and [Linaqruf](https://github.com/Linaqruf/kohya-trainer).
 
 | |🇬🇧 English|🇪🇸 Spanish|
 |:--|:-:|:-:|
@@ -17,21 +17,23 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 * Able to generate tags for all your anime images using the [Waifu Diffusion 1.4 Tagger](https://huggingface.co/SmilingWolf/wd-v1-4-swinv2-tagger-v2) model.
 * Able to generate captions for all your images using the [BLIP](https://huggingface.co/spaces/Salesforce/BLIP) model.
 * Gives you the ability to edit hundreds of text files at once, to add/remove/replace tags inside them dynamically.
-* Works inside your Google Drive by default
-* Connects easily with Lora Trainer
+* Works inside your Google Drive by default.
+* Connects easily with Lora Trainer.
 
 ### ⭐ Lora Trainer - Features
 
-* Can train LoRA, LoCon and LoHa
-* One click to install and start training
-* Offers all useful training parameters while keeping it simple and accessible
-* Helpful parameter descriptions and runtime messages
-* Advanced features in the form of custom configurations, allowing training with multiple datasets at once and more
-* Uses the latest technologies to load and train quickly
-* Utilizes the [kohya-ss](https://github.com/kohya-ss/sd-scripts) backend, an industry standard
-* Sources code and assets from [Linaqruf](https://github.com/Linaqruf/kohya-trainer)'s repository. Thank you!
-* Works inside your Google Drive by default
-* Connects easily with Dataset Maker
+* Can train LoRA, LoCon and LoHa.
+* New feature: [min-snr-gamma](https://arxiv.org/abs/2303.09556), optimizes loss to improve training efficiency.
+* One click to install and start training.
+* Offers all useful training parameters while keeping it simple and accessible.
+* Helpful parameter descriptions and runtime messages.
+* Can continue training an existing Lora (though not ideal).
+* Advanced features in the form of custom configurations, allowing training with multiple datasets at once and more.
+* Uses the latest technologies to load and train quickly.
+* Utilizes [kohya-ss scripts](https://github.com/kohya-ss/sd-scripts) as a backend, an industry standard.
+* Sources code from [Linaqruf](https://github.com/Linaqruf/kohya-trainer)'s colabs. Thank you!
+* Works inside your Google Drive by default.
+* Connects easily with Dataset Maker.
 
 &nbsp;
 
