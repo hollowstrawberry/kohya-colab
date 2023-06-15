@@ -12,7 +12,8 @@ safetensors==0.2.6
 toml==0.10.2
 voluptuous==0.13.1
 torch==2.0.0+cu118
-xformers==0.0.18
+xformers==0.0.19
+triton==2.0.0
 lycoris_lora==0.1.3
 dadaptation
 lion_pytorch
