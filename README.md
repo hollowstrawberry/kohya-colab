@@ -29,7 +29,6 @@ If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry
 * One click to install and start training.
 * Offers all useful training parameters while keeping it simple and accessible.
 * Helpful parameter descriptions and runtime messages.
-* Can continue training an existing Lora (though not ideal).
 * Advanced features in the form of custom configurations, allowing training with multiple datasets at once and more.
 * Uses the latest technologies to load and train quickly.
 * Utilizes [kohya-ss scripts](https://github.com/kohya-ss/sd-scripts) as a backend, an industry standard.
