@@ -14,6 +14,6 @@ voluptuous==0.13.1
 xformers==0.0.20
 lycoris_lora==0.1.4
 lion_pytorch==0.0.6
-dadaptation
-prodigyopt
+dadaptation==3.1
+prodigyopt==1.0
 .
