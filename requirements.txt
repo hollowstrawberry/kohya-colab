@@ -6,7 +6,7 @@ opencv-python==4.7.0.68
 einops==0.6.0
 diffusers==0.10.2
 pytorch-lightning==1.9.0
-bitsandbytes==0.39.1
+bitsandbytes==0.35.0
 tensorflow==2.13.0
 safetensors==0.2.6
 toml==0.10.2
