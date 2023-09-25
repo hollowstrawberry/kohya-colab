@@ -15,4 +15,5 @@ xformers==0.0.20
 lion_pytorch==0.0.6
 dadaptation==3.1
 prodigyopt==1.0
+lycoris_lora==0.1.4
 .
