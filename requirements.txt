@@ -11,7 +11,7 @@ tensorflow==2.13.0
 safetensors==0.2.6
 toml==0.10.2
 voluptuous==0.13.1
-xformers==0.0.20
+xformers==0.0.22.post4
 lion_pytorch==0.0.6
 dadaptation==3.1
 prodigyopt==1.0
