@@ -8,6 +8,7 @@ If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry
 |:--|:-:|:-:|
 | 📊 **Dataset Maker** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Spanish_Dataset_Maker.ipynb) |
 | ⭐ **Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Spanish_Lora_Trainer.ipynb) |
+| 🌟 **XL Lora Trainer** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Lora_Trainer_XL.ipynb) | - |
 | **Lora making Guide** | [Click Here](https://civitai.com/models/22530) | - |
 | **Stable Diffusion guide** | [Click Here](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/README.md#index) | [Click Aquí](https://huggingface.co/hollowstrawberry/stable-diffusion-guide/blob/main/spanish.md#index) |
 
@@ -35,6 +36,10 @@ If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry
 * Sources code from [Linaqruf](https://github.com/Linaqruf/kohya-trainer)'s colabs. Thank you!
 * Works inside your Google Drive by default.
 * Connects easily with Dataset Maker.
+
+### 🌟 XL Lora Trainer
+
+* In testing phase
 
 &nbsp;
 
