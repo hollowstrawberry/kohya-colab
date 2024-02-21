@@ -1,0 +1,16 @@
+accelerate==0.19.0
+salesforce-lavis==1.0.0
+transformers==4.30.2
+diffusers[torch]==0.18.2
+ftfy==6.1.1
+opencv-python==4.7.0.68
+einops==0.6.0
+pytorch-lightning==1.9.0
+bitsandbytes==0.40.0.post4
+safetensors==0.3.1
+toml==0.10.2
+voluptuous==0.13.1
+huggingface-hub==0.15.1
+dadaptation==3.1
+lion-pytorch==0.1.2
+-e .
