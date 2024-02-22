@@ -25,21 +25,23 @@ If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry
 
 ### ⭐ Lora Trainer - Features
 
-* Can train LoRA, LoCon and LoHa.
-* New feature: [min-snr-gamma](https://arxiv.org/abs/2303.09556), optimizes loss to improve training efficiency.
+* Can train LoRA and LoCon for Stable Diffusion 1.5, includes a few model options for anime.
 * One click to install and start training.
 * Offers all useful training parameters while keeping it simple and accessible.
 * Helpful parameter descriptions and runtime messages.
-* Advanced features in the form of custom configurations, allowing training with multiple datasets at once and more.
+* Allows you to optionally define multiple folders for training.
 * Uses the latest technologies to load and train quickly.
-* Utilizes [kohya-ss scripts](https://github.com/kohya-ss/sd-scripts) as a backend, an industry standard.
-* Sources code from [Linaqruf](https://github.com/Linaqruf/kohya-trainer)'s colabs. Thank you!
-* Works inside your Google Drive by default.
-* Connects easily with Dataset Maker.
+* Works inside your Google Drive by default and connects easily with Dataset Maker.
 
 ### 🌟 XL Lora Trainer
 
-* In testing phase
+* Can train LoRA and LoCon for Stable Diffusion XL, includes a few model options for anime.
+* One click to install and start training.
+* Can work with multiple colab configurations, including T4 (free) and A100.
+* Offers most parameters while setting useful values behind the scenes to keep it simple.
+* Allows you to optionally define multiple folders for training.
+* Uses the latest technologies to load and train quickly.
+* Works inside your Google Drive by default and connects easily with Dataset Maker.
 
 &nbsp;
 
