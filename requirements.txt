@@ -1,3 +1,4 @@
+torch==2.2.1+cu121
 accelerate==0.15.0
 transformers==4.26.0
 ftfy==6.1.1
@@ -8,7 +9,7 @@ diffusers==0.10.2
 pytorch-lightning==1.9.0
 bitsandbytes==0.41.3.post2
 tensorflow==2.14.0
-safetensors==0.4.1
+safetensors==0.4.2
 toml==0.10.2
 voluptuous==0.13.1
 lion_pytorch==0.0.6
