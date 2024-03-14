@@ -1,4 +1,4 @@
-torch @ https://download.pytorch.org/whl/cu121/torch-2.2.1%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=1adf430f01ff649c848ac021785e18007b0714fdde68e4e65bd0c640bf3fb8e1
+torch==2.2.1+cu121
 accelerate==0.19.0
 transformers==4.38.2
 diffusers==0.18.2
