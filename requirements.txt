@@ -15,5 +15,5 @@ prodigyopt==1.0
 lycoris_lora==0.1.4
 xformers==0.0.22.post7
 .
---index-url https://download.pytorch.org/whl/cu121
+--extra-index-url https://download.pytorch.org/whl/cu121
 torch==2.1.0+cu121
