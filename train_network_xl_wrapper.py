@@ -9,18 +9,28 @@ try:
     trainer = SdxlNetworkTrainer()
     trainer.train(args)
 
-except:
+except BaseException:
     import sys
     import traceback
+    import re
     from pygments import formatters, highlight, lexers
     from dracula import DraculaStyle
 
     tb = traceback.format_exc().split("\n")
-    tb_text = "\n".join(tb[:-2])
+    error_index = len(tb)
+    for i, line in enumerate(tb):
+      if re.match(r"^[A-Za-z-_]+Error:", line):
+        error_index = i
+        break
+    tb_text = "\n".join(tb[:error_index])
 
     lexer = lexers.get_lexer_by_name("pytb", stripall=True)
     formatter = formatters.Terminal256Formatter(style=DraculaStyle)
     tb_colored = highlight(tb_text, lexer, formatter)
 
-    print(f"{tb_colored}\n\033[0;31m\033[1m{tb[-2]}\n")
+    print(f"\n{tb_colored}")
+    if error_index < len(tb):
+      tb_error = "\n".join(tb[error_index:])
+      print(f"\033[0;31m\033[1m{tb_error}\n")
+
     sys.exit(1)
