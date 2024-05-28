@@ -4,6 +4,8 @@ Accessible Google Colab notebooks for Stable Diffusion Lora training, based on t
 
 If you need support I now have a public [Discord server](https://discord.com/invite/hGHnfda)
 
+You can support me on [Buy me a coffee](https://buymeacoffee.com/holostrawberry)
+
 | |🇬🇧 English|🇪🇸 Spanish|
 |:--|:-:|:-:|
 | 📊 **Dataset Maker** | [![Open in Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Dataset_Maker.ipynb) | [![Abrir en Colab](https://raw.githubusercontent.com/hollowstrawberry/kohya-colab/main/assets/colab-badge-spanish.svg)](https://colab.research.google.com/github/hollowstrawberry/kohya-colab/blob/main/Spanish_Dataset_Maker.ipynb) |
