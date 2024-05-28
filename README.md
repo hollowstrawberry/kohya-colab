@@ -2,8 +2,6 @@
 
 Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of [kohya-ss](https://github.com/kohya-ss/sd-scripts) and [Linaqruf](https://github.com/Linaqruf/kohya-trainer).
 
-If you like my work consider [leaving me a tip](https://ko-fi.com/holostrawberry) :)
-
 If you need support I now have a public [Discord server](https://discord.com/invite/hGHnfda)
 
 | |🇬🇧 English|🇪🇸 Spanish|
