@@ -1,12 +1,13 @@
 try:
-    from train_network import setup_parser, train
+    from train_network import setup_parser, ‎NetworkTrainer
     from library.train_util import read_config_from_file
 
     parser = setup_parser()
     args = parser.parse_args()
     args = read_config_from_file(args, parser)
 
-    train(args)
+    trainer = NetworkTrainer()
+    trainer.train(args)
     print("\n\033[1m✅ Done! Go download your Lora from Google Drive.\nThere will be several files, you should try the latest version (the file with the largest number next to it)")
 
 except BaseException:
