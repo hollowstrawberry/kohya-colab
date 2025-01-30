@@ -25,24 +25,14 @@ You can support me on [Buy me a coffee](https://buymeacoffee.com/holostrawberry)
 * Works inside your Google Drive by default.
 * Connects easily with Lora Trainer.
 
-### ⭐ Lora Trainer - Features
-
-* Can train LoRA and LoCon for Stable Diffusion 1.5, includes a few model options for anime.
-* One click to install and start training.
-* Offers all useful training parameters while keeping it simple and accessible.
-* Helpful parameter descriptions and runtime messages.
-* Allows you to optionally define multiple folders for training.
-* Uses the latest technologies to load and train quickly.
-* Works inside your Google Drive by default and connects easily with Dataset Maker.
-
 ### 🌟 XL Lora Trainer
 
-* Can train LoRA and LoCon for Stable Diffusion XL, includes a few model options for anime.
+* Can train LoRA and LoCon for Stable Diffusion XL, includes several model options for anime.
 * One click to install and start training.
 * Can work with multiple colab configurations, including T4 (free) and A100.
 * Offers most parameters while setting useful values behind the scenes to keep it simple.
 * Allows you to optionally define multiple folders for training.
-* Uses the latest technologies to load and train quickly.
+* Uses the latest technologies to train quickly.
 * Works inside your Google Drive by default and connects easily with Dataset Maker.
 
 &nbsp;
